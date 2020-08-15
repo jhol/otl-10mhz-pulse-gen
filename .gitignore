@@ -1,2 +1,4 @@
 *-sim
 *.vcd
+
+synth_74.ys
